@@ -1,0 +1,501 @@
+ID_Pedido,Data,Produto,Categoria,Regiao,Quantidade,Preco_Unitario,Receita_Total
+NKE-1000,2025-01-01,Nike Dunk Low,Calçado,Oeste,1,115,115
+NKE-1001,2025-01-01,Nike Tech Fleece,Vestuário,Oeste,5,140,700
+NKE-1002,2025-01-02,Nike Pegasus,Calçado,Sul,2,130,260
+NKE-1003,2025-01-03,Nike Tech Fleece,Vestuário,Oeste,2,140,280
+NKE-1004,2025-01-03,Nike Tech Fleece,Vestuário,Oeste,5,140,700
+NKE-1005,2025-01-04,Nike Air Max,Calçado,Norte,4,150,600
+NKE-1006,2025-01-05,Nike Pegasus,Calçado,Oeste,2,130,260
+NKE-1007,2025-01-06,Nike Pegasus,Calçado,Este,4,130,520
+NKE-1008,2025-01-06,Nike Pegasus,Calçado,Norte,2,130,260
+NKE-1009,2025-01-07,Nike Tech Fleece,Vestuário,Norte,2,140,280
+NKE-1010,2025-01-08,Nike Dunk Low,Calçado,Sul,3,115,345
+NKE-1011,2025-01-09,Nike Pegasus,Calçado,Oeste,2,130,260
+NKE-1012,2025-01-09,Nike Pro Training,Vestuário,Sul,1,55,55
+NKE-1013,2025-01-10,Nike Tech Fleece,Vestuário,Este,5,140,700
+NKE-1014,2025-01-11,Nike Air Max,Calçado,Norte,5,150,750
+NKE-1015,2025-01-11,Nike Dunk Low,Calçado,Norte,4,115,460
+NKE-1016,2025-01-12,Nike Pro Training,Vestuário,Norte,2,55,110
+NKE-1017,2025-01-13,Nike Pro Training,Vestuário,Este,1,55,55
+NKE-1018,2025-01-14,Nike Air Max,Calçado,Este,4,150,600
+NKE-1019,2025-01-14,Nike Dunk Low,Calçado,Sul,3,115,345
+NKE-1020,2025-01-15,Nike Tech Fleece,Vestuário,Sul,4,140,560
+NKE-1021,2025-01-16,Nike Air Force 1,Calçado,Sul,4,110,440
+NKE-1022,2025-01-17,Nike Dunk Low,Calçado,Oeste,2,115,230
+NKE-1023,2025-01-17,Nike Air Max,Calçado,Norte,3,150,450
+NKE-1024,2025-01-18,Nike Pro Training,Vestuário,Norte,4,55,220
+NKE-1025,2025-01-19,Nike Tech Fleece,Vestuário,Sul,1,140,140
+NKE-1026,2025-01-19,Nike Dunk Low,Calçado,Norte,1,115,115
+NKE-1027,2025-01-20,Nike Air Force 1,Calçado,Sul,5,110,550
+NKE-1028,2025-01-21,Nike Air Force 1,Calçado,Oeste,3,110,330
+NKE-1029,2025-01-22,Nike Pegasus,Calçado,Oeste,3,130,390
+NKE-1030,2025-01-22,Nike Pegasus,Calçado,Este,5,130,650
+NKE-1031,2025-01-23,Nike Air Max,Calçado,Oeste,4,150,600
+NKE-1032,2025-01-24,Nike Dunk Low,Calçado,Sul,3,115,345
+NKE-1033,2025-01-25,Nike Dunk Low,Calçado,Oeste,1,115,115
+NKE-1034,2025-01-25,Nike Pro Training,Vestuário,Este,1,55,55
+NKE-1035,2025-01-26,Nike Pro Training,Vestuário,Norte,2,55,110
+NKE-1036,2025-01-27,Nike Pro Training,Vestuário,Sul,3,55,165
+NKE-1037,2025-01-27,Nike Pegasus,Calçado,Norte,4,130,520
+NKE-1038,2025-01-28,Nike Dunk Low,Calçado,Este,5,115,575
+NKE-1039,2025-01-29,Nike Dunk Low,Calçado,Este,5,115,575
+NKE-1040,2025-01-30,Nike Air Force 1,Calçado,Este,4,110,440
+NKE-1041,2025-01-30,Nike Pegasus,Calçado,Norte,2,130,260
+NKE-1042,2025-01-31,Nike Tech Fleece,Vestuário,Norte,5,140,700
+NKE-1043,2025-02-01,Nike Pegasus,Calçado,Norte,3,130,390
+NKE-1044,2025-02-02,Nike Tech Fleece,Vestuário,Norte,2,140,280
+NKE-1045,2025-02-02,Nike Air Force 1,Calçado,Este,3,110,330
+NKE-1046,2025-02-03,Nike Air Max,Calçado,Este,1,150,150
+NKE-1047,2025-02-04,Nike Dunk Low,Calçado,Sul,2,115,230
+NKE-1048,2025-02-05,Nike Air Force 1,Calçado,Sul,5,110,550
+NKE-1049,2025-02-05,Nike Dunk Low,Calçado,Norte,2,115,230
+NKE-1050,2025-02-06,Nike Pro Training,Vestuário,Oeste,2,55,110
+NKE-1051,2025-02-07,Nike Air Max,Calçado,Oeste,2,150,300
+NKE-1052,2025-02-07,Nike Air Max,Calçado,Este,2,150,300
+NKE-1053,2025-02-08,Nike Air Force 1,Calçado,Este,3,110,330
+NKE-1054,2025-02-09,Nike Air Max,Calçado,Este,1,150,150
+NKE-1055,2025-02-10,Nike Tech Fleece,Vestuário,Sul,4,140,560
+NKE-1056,2025-02-10,Nike Air Max,Calçado,Sul,2,150,300
+NKE-1057,2025-02-11,Nike Dunk Low,Calçado,Este,5,115,575
+NKE-1058,2025-02-12,Nike Dunk Low,Calçado,Este,2,115,230
+NKE-1059,2025-02-13,Nike Dunk Low,Calçado,Este,5,115,575
+NKE-1060,2025-02-13,Nike Dunk Low,Calçado,Oeste,3,115,345
+NKE-1061,2025-02-14,Nike Tech Fleece,Vestuário,Sul,5,140,700
+NKE-1062,2025-02-15,Nike Pegasus,Calçado,Oeste,4,130,520
+NKE-1063,2025-02-15,Nike Pro Training,Vestuário,Oeste,1,55,55
+NKE-1064,2025-02-16,Nike Air Force 1,Calçado,Este,5,110,550
+NKE-1065,2025-02-17,Nike Dunk Low,Calçado,Este,5,115,575
+NKE-1066,2025-02-18,Nike Air Max,Calçado,Norte,1,150,150
+NKE-1067,2025-02-18,Nike Dunk Low,Calçado,Norte,4,115,460
+NKE-1068,2025-02-19,Nike Air Max,Calçado,Oeste,2,150,300
+NKE-1069,2025-02-20,Nike Pro Training,Vestuário,Sul,5,55,275
+NKE-1070,2025-02-21,Nike Pro Training,Vestuário,Este,1,55,55
+NKE-1071,2025-02-21,Nike Pro Training,Vestuário,Este,3,55,165
+NKE-1072,2025-02-22,Nike Air Max,Calçado,Oeste,1,150,150
+NKE-1073,2025-02-23,Nike Dunk Low,Calçado,Norte,3,115,345
+NKE-1074,2025-02-23,Nike Pro Training,Vestuário,Sul,4,55,220
+NKE-1075,2025-02-24,Nike Tech Fleece,Vestuário,Norte,2,140,280
+NKE-1076,2025-02-25,Nike Air Max,Calçado,Norte,1,150,150
+NKE-1077,2025-02-26,Nike Air Max,Calçado,Norte,5,150,750
+NKE-1078,2025-02-26,Nike Dunk Low,Calçado,Norte,4,115,460
+NKE-1079,2025-02-27,Nike Air Max,Calçado,Este,1,150,150
+NKE-1080,2025-02-28,Nike Air Max,Calçado,Este,5,150,750
+NKE-1081,2025-03-01,Nike Pro Training,Vestuário,Norte,1,55,55
+NKE-1082,2025-03-01,Nike Dunk Low,Calçado,Sul,3,115,345
+NKE-1083,2025-03-02,Nike Pro Training,Vestuário,Oeste,1,55,55
+NKE-1084,2025-03-03,Nike Pro Training,Vestuário,Sul,1,55,55
+NKE-1085,2025-03-04,Nike Dunk Low,Calçado,Sul,1,115,115
+NKE-1086,2025-03-04,Nike Air Force 1,Calçado,Sul,4,110,440
+NKE-1087,2025-03-05,Nike Pro Training,Vestuário,Norte,1,55,55
+NKE-1088,2025-03-06,Nike Tech Fleece,Vestuário,Este,5,140,700
+NKE-1089,2025-03-06,Nike Tech Fleece,Vestuário,Sul,3,140,420
+NKE-1090,2025-03-07,Nike Air Max,Calçado,Norte,3,150,450
+NKE-1091,2025-03-08,Nike Tech Fleece,Vestuário,Sul,1,140,140
+NKE-1092,2025-03-09,Nike Air Max,Calçado,Sul,4,150,600
+NKE-1093,2025-03-09,Nike Air Force 1,Calçado,Norte,4,110,440
+NKE-1094,2025-03-10,Nike Dunk Low,Calçado,Este,5,115,575
+NKE-1095,2025-03-11,Nike Dunk Low,Calçado,Este,1,115,115
+NKE-1096,2025-03-12,Nike Dunk Low,Calçado,Oeste,3,115,345
+NKE-1097,2025-03-12,Nike Tech Fleece,Vestuário,Norte,4,140,560
+NKE-1098,2025-03-13,Nike Air Force 1,Calçado,Oeste,1,110,110
+NKE-1099,2025-03-14,Nike Tech Fleece,Vestuário,Oeste,4,140,560
+NKE-1100,2025-03-14,Nike Tech Fleece,Vestuário,Oeste,4,140,560
+NKE-1101,2025-03-15,Nike Air Force 1,Calçado,Este,3,110,330
+NKE-1102,2025-03-16,Nike Air Force 1,Calçado,Norte,2,110,220
+NKE-1103,2025-03-17,Nike Air Force 1,Calçado,Oeste,5,110,550
+NKE-1104,2025-03-17,Nike Air Force 1,Calçado,Norte,5,110,550
+NKE-1105,2025-03-18,Nike Dunk Low,Calçado,Norte,3,115,345
+NKE-1106,2025-03-19,Nike Pegasus,Calçado,Este,4,130,520
+NKE-1107,2025-03-20,Nike Pegasus,Calçado,Oeste,1,130,130
+NKE-1108,2025-03-20,Nike Air Force 1,Calçado,Oeste,4,110,440
+NKE-1109,2025-03-21,Nike Pegasus,Calçado,Norte,3,130,390
+NKE-1110,2025-03-22,Nike Pegasus,Calçado,Sul,5,130,650
+NKE-1111,2025-03-22,Nike Air Force 1,Calçado,Este,4,110,440
+NKE-1112,2025-03-23,Nike Pegasus,Calçado,Este,5,130,650
+NKE-1113,2025-03-24,Nike Tech Fleece,Vestuário,Este,1,140,140
+NKE-1114,2025-03-25,Nike Air Max,Calçado,Este,5,150,750
+NKE-1115,2025-03-25,Nike Air Max,Calçado,Oeste,5,150,750
+NKE-1116,2025-03-26,Nike Air Force 1,Calçado,Oeste,2,110,220
+NKE-1117,2025-03-27,Nike Dunk Low,Calçado,Sul,2,115,230
+NKE-1118,2025-03-28,Nike Air Force 1,Calçado,Este,2,110,220
+NKE-1119,2025-03-28,Nike Dunk Low,Calçado,Este,5,115,575
+NKE-1120,2025-03-29,Nike Air Max,Calçado,Norte,3,150,450
+NKE-1121,2025-03-30,Nike Air Force 1,Calçado,Oeste,5,110,550
+NKE-1122,2025-03-30,Nike Pro Training,Vestuário,Este,3,55,165
+NKE-1123,2025-03-31,Nike Tech Fleece,Vestuário,Sul,3,140,420
+NKE-1124,2025-04-01,Nike Pegasus,Calçado,Sul,2,130,260
+NKE-1125,2025-04-02,Nike Dunk Low,Calçado,Oeste,4,115,460
+NKE-1126,2025-04-02,Nike Pro Training,Vestuário,Sul,1,55,55
+NKE-1127,2025-04-03,Nike Pegasus,Calçado,Sul,2,130,260
+NKE-1128,2025-04-04,Nike Pegasus,Calçado,Oeste,2,130,260
+NKE-1129,2025-04-05,Nike Air Force 1,Calçado,Este,4,110,440
+NKE-1130,2025-04-05,Nike Pegasus,Calçado,Este,1,130,130
+NKE-1131,2025-04-06,Nike Tech Fleece,Vestuário,Sul,5,140,700
+NKE-1132,2025-04-07,Nike Pro Training,Vestuário,Sul,5,55,275
+NKE-1133,2025-04-08,Nike Pegasus,Calçado,Este,2,130,260
+NKE-1134,2025-04-08,Nike Air Force 1,Calçado,Oeste,1,110,110
+NKE-1135,2025-04-09,Nike Tech Fleece,Vestuário,Sul,2,140,280
+NKE-1136,2025-04-10,Nike Air Max,Calçado,Norte,3,150,450
+NKE-1137,2025-04-10,Nike Pro Training,Vestuário,Oeste,2,55,110
+NKE-1138,2025-04-11,Nike Pegasus,Calçado,Sul,2,130,260
+NKE-1139,2025-04-12,Nike Air Force 1,Calçado,Sul,5,110,550
+NKE-1140,2025-04-13,Nike Air Max,Calçado,Norte,5,150,750
+NKE-1141,2025-04-13,Nike Air Max,Calçado,Norte,5,150,750
+NKE-1142,2025-04-14,Nike Dunk Low,Calçado,Este,3,115,345
+NKE-1143,2025-04-15,Nike Tech Fleece,Vestuário,Oeste,5,140,700
+NKE-1144,2025-04-16,Nike Pegasus,Calçado,Oeste,1,130,130
+NKE-1145,2025-04-16,Nike Air Force 1,Calçado,Este,4,110,440
+NKE-1146,2025-04-17,Nike Dunk Low,Calçado,Oeste,1,115,115
+NKE-1147,2025-04-18,Nike Tech Fleece,Vestuário,Oeste,1,140,140
+NKE-1148,2025-04-18,Nike Dunk Low,Calçado,Oeste,5,115,575
+NKE-1149,2025-04-19,Nike Pro Training,Vestuário,Oeste,4,55,220
+NKE-1150,2025-04-20,Nike Tech Fleece,Vestuário,Oeste,4,140,560
+NKE-1151,2025-04-21,Nike Tech Fleece,Vestuário,Norte,4,140,560
+NKE-1152,2025-04-21,Nike Pegasus,Calçado,Oeste,3,130,390
+NKE-1153,2025-04-22,Nike Tech Fleece,Vestuário,Norte,5,140,700
+NKE-1154,2025-04-23,Nike Dunk Low,Calçado,Oeste,4,115,460
+NKE-1155,2025-04-24,Nike Tech Fleece,Vestuário,Este,3,140,420
+NKE-1156,2025-04-24,Nike Pegasus,Calçado,Sul,2,130,260
+NKE-1157,2025-04-25,Nike Pegasus,Calçado,Norte,2,130,260
+NKE-1158,2025-04-26,Nike Pro Training,Vestuário,Oeste,3,55,165
+NKE-1159,2025-04-26,Nike Dunk Low,Calçado,Este,3,115,345
+NKE-1160,2025-04-27,Nike Air Max,Calçado,Sul,5,150,750
+NKE-1161,2025-04-28,Nike Air Max,Calçado,Norte,5,150,750
+NKE-1162,2025-04-29,Nike Tech Fleece,Vestuário,Sul,2,140,280
+NKE-1163,2025-04-29,Nike Pro Training,Vestuário,Este,4,55,220
+NKE-1164,2025-04-30,Nike Air Force 1,Calçado,Norte,2,110,220
+NKE-1165,2025-05-01,Nike Tech Fleece,Vestuário,Sul,4,140,560
+NKE-1166,2025-05-02,Nike Pro Training,Vestuário,Oeste,4,55,220
+NKE-1167,2025-05-02,Nike Dunk Low,Calçado,Norte,5,115,575
+NKE-1168,2025-05-03,Nike Dunk Low,Calçado,Sul,1,115,115
+NKE-1169,2025-05-04,Nike Dunk Low,Calçado,Este,1,115,115
+NKE-1170,2025-05-05,Nike Dunk Low,Calçado,Este,3,115,345
+NKE-1171,2025-05-05,Nike Dunk Low,Calçado,Norte,5,115,575
+NKE-1172,2025-05-06,Nike Pro Training,Vestuário,Sul,4,55,220
+NKE-1173,2025-05-07,Nike Pro Training,Vestuário,Norte,1,55,55
+NKE-1174,2025-05-07,Nike Pegasus,Calçado,Norte,4,130,520
+NKE-1175,2025-05-08,Nike Air Max,Calçado,Sul,1,150,150
+NKE-1176,2025-05-09,Nike Dunk Low,Calçado,Sul,1,115,115
+NKE-1177,2025-05-10,Nike Air Force 1,Calçado,Oeste,1,110,110
+NKE-1178,2025-05-10,Nike Pro Training,Vestuário,Sul,5,55,275
+NKE-1179,2025-05-11,Nike Air Force 1,Calçado,Este,2,110,220
+NKE-1180,2025-05-12,Nike Air Force 1,Calçado,Norte,4,110,440
+NKE-1181,2025-05-13,Nike Air Force 1,Calçado,Norte,5,110,550
+NKE-1182,2025-05-13,Nike Pegasus,Calçado,Este,5,130,650
+NKE-1183,2025-05-14,Nike Pro Training,Vestuário,Sul,5,55,275
+NKE-1184,2025-05-15,Nike Air Force 1,Calçado,Este,5,110,550
+NKE-1185,2025-05-15,Nike Dunk Low,Calçado,Este,5,115,575
+NKE-1186,2025-05-16,Nike Tech Fleece,Vestuário,Oeste,3,140,420
+NKE-1187,2025-05-17,Nike Air Force 1,Calçado,Este,4,110,440
+NKE-1188,2025-05-18,Nike Pegasus,Calçado,Norte,5,130,650
+NKE-1189,2025-05-18,Nike Pro Training,Vestuário,Este,4,55,220
+NKE-1190,2025-05-19,Nike Pegasus,Calçado,Norte,3,130,390
+NKE-1191,2025-05-20,Nike Air Force 1,Calçado,Norte,3,110,330
+NKE-1192,2025-05-21,Nike Pro Training,Vestuário,Norte,4,55,220
+NKE-1193,2025-05-21,Nike Tech Fleece,Vestuário,Sul,1,140,140
+NKE-1194,2025-05-22,Nike Air Force 1,Calçado,Oeste,2,110,220
+NKE-1195,2025-05-23,Nike Pegasus,Calçado,Norte,1,130,130
+NKE-1196,2025-05-23,Nike Air Max,Calçado,Norte,1,150,150
+NKE-1197,2025-05-24,Nike Dunk Low,Calçado,Sul,1,115,115
+NKE-1198,2025-05-25,Nike Pegasus,Calçado,Norte,5,130,650
+NKE-1199,2025-05-26,Nike Pro Training,Vestuário,Este,3,55,165
+NKE-1200,2025-05-26,Nike Air Force 1,Calçado,Este,1,110,110
+NKE-1201,2025-05-27,Nike Dunk Low,Calçado,Oeste,3,115,345
+NKE-1202,2025-05-28,Nike Air Force 1,Calçado,Norte,4,110,440
+NKE-1203,2025-05-29,Nike Pro Training,Vestuário,Sul,2,55,110
+NKE-1204,2025-05-29,Nike Air Force 1,Calçado,Este,4,110,440
+NKE-1205,2025-05-30,Nike Air Max,Calçado,Sul,4,150,600
+NKE-1206,2025-05-31,Nike Dunk Low,Calçado,Sul,5,115,575
+NKE-1207,2025-05-31,Nike Dunk Low,Calçado,Este,2,115,230
+NKE-1208,2025-06-01,Nike Pro Training,Vestuário,Sul,4,55,220
+NKE-1209,2025-06-02,Nike Air Max,Calçado,Este,4,150,600
+NKE-1210,2025-06-03,Nike Pegasus,Calçado,Sul,2,130,260
+NKE-1211,2025-06-03,Nike Air Force 1,Calçado,Este,2,110,220
+NKE-1212,2025-06-04,Nike Tech Fleece,Vestuário,Norte,4,140,560
+NKE-1213,2025-06-05,Nike Air Force 1,Calçado,Oeste,2,110,220
+NKE-1214,2025-06-06,Nike Air Force 1,Calçado,Este,4,110,440
+NKE-1215,2025-06-06,Nike Pegasus,Calçado,Este,4,130,520
+NKE-1216,2025-06-07,Nike Air Force 1,Calçado,Oeste,5,110,550
+NKE-1217,2025-06-08,Nike Air Max,Calçado,Este,1,150,150
+NKE-1218,2025-06-09,Nike Air Max,Calçado,Este,4,150,600
+NKE-1219,2025-06-09,Nike Dunk Low,Calçado,Sul,3,115,345
+NKE-1220,2025-06-10,Nike Pro Training,Vestuário,Oeste,1,55,55
+NKE-1221,2025-06-11,Nike Tech Fleece,Vestuário,Norte,1,140,140
+NKE-1222,2025-06-11,Nike Air Force 1,Calçado,Este,1,110,110
+NKE-1223,2025-06-12,Nike Air Force 1,Calçado,Oeste,5,110,550
+NKE-1224,2025-06-13,Nike Pegasus,Calçado,Sul,4,130,520
+NKE-1225,2025-06-14,Nike Pro Training,Vestuário,Norte,5,55,275
+NKE-1226,2025-06-14,Nike Air Max,Calçado,Oeste,4,150,600
+NKE-1227,2025-06-15,Nike Tech Fleece,Vestuário,Norte,5,140,700
+NKE-1228,2025-06-16,Nike Dunk Low,Calçado,Norte,5,115,575
+NKE-1229,2025-06-17,Nike Air Max,Calçado,Norte,3,150,450
+NKE-1230,2025-06-17,Nike Pro Training,Vestuário,Este,5,55,275
+NKE-1231,2025-06-18,Nike Dunk Low,Calçado,Este,2,115,230
+NKE-1232,2025-06-19,Nike Pegasus,Calçado,Sul,3,130,390
+NKE-1233,2025-06-19,Nike Pegasus,Calçado,Sul,5,130,650
+NKE-1234,2025-06-20,Nike Air Force 1,Calçado,Oeste,1,110,110
+NKE-1235,2025-06-21,Nike Pro Training,Vestuário,Sul,2,55,110
+NKE-1236,2025-06-22,Nike Tech Fleece,Vestuário,Norte,2,140,280
+NKE-1237,2025-06-22,Nike Dunk Low,Calçado,Norte,2,115,230
+NKE-1238,2025-06-23,Nike Air Max,Calçado,Este,3,150,450
+NKE-1239,2025-06-24,Nike Pro Training,Vestuário,Norte,5,55,275
+NKE-1240,2025-06-25,Nike Pro Training,Vestuário,Oeste,5,55,275
+NKE-1241,2025-06-25,Nike Pegasus,Calçado,Norte,1,130,130
+NKE-1242,2025-06-26,Nike Air Force 1,Calçado,Norte,1,110,110
+NKE-1243,2025-06-27,Nike Air Force 1,Calçado,Oeste,2,110,220
+NKE-1244,2025-06-27,Nike Dunk Low,Calçado,Sul,1,115,115
+NKE-1245,2025-06-28,Nike Pegasus,Calçado,Sul,3,130,390
+NKE-1246,2025-06-29,Nike Pro Training,Vestuário,Oeste,5,55,275
+NKE-1247,2025-06-30,Nike Tech Fleece,Vestuário,Este,2,140,280
+NKE-1248,2025-06-30,Nike Pegasus,Calçado,Norte,1,130,130
+NKE-1249,2025-07-01,Nike Dunk Low,Calçado,Oeste,3,115,345
+NKE-1250,2025-07-02,Nike Dunk Low,Calçado,Norte,3,115,345
+NKE-1251,2025-07-03,Nike Pegasus,Calçado,Este,1,130,130
+NKE-1252,2025-07-03,Nike Dunk Low,Calçado,Norte,5,115,575
+NKE-1253,2025-07-04,Nike Pegasus,Calçado,Oeste,1,130,130
+NKE-1254,2025-07-05,Nike Air Max,Calçado,Norte,2,150,300
+NKE-1255,2025-07-06,Nike Pegasus,Calçado,Sul,1,130,130
+NKE-1256,2025-07-06,Nike Pegasus,Calçado,Este,3,130,390
+NKE-1257,2025-07-07,Nike Dunk Low,Calçado,Este,1,115,115
+NKE-1258,2025-07-08,Nike Dunk Low,Calçado,Este,5,115,575
+NKE-1259,2025-07-08,Nike Air Force 1,Calçado,Oeste,4,110,440
+NKE-1260,2025-07-09,Nike Air Force 1,Calçado,Este,1,110,110
+NKE-1261,2025-07-10,Nike Air Max,Calçado,Sul,5,150,750
+NKE-1262,2025-07-11,Nike Air Force 1,Calçado,Oeste,5,110,550
+NKE-1263,2025-07-11,Nike Pegasus,Calçado,Sul,3,130,390
+NKE-1264,2025-07-12,Nike Dunk Low,Calçado,Norte,5,115,575
+NKE-1265,2025-07-13,Nike Air Force 1,Calçado,Norte,5,110,550
+NKE-1266,2025-07-14,Nike Air Force 1,Calçado,Norte,5,110,550
+NKE-1267,2025-07-14,Nike Air Max,Calçado,Norte,5,150,750
+NKE-1268,2025-07-15,Nike Pro Training,Vestuário,Sul,2,55,110
+NKE-1269,2025-07-16,Nike Air Max,Calçado,Oeste,2,150,300
+NKE-1270,2025-07-16,Nike Pegasus,Calçado,Oeste,3,130,390
+NKE-1271,2025-07-17,Nike Dunk Low,Calçado,Este,1,115,115
+NKE-1272,2025-07-18,Nike Air Max,Calçado,Sul,5,150,750
+NKE-1273,2025-07-19,Nike Air Force 1,Calçado,Norte,1,110,110
+NKE-1274,2025-07-19,Nike Dunk Low,Calçado,Sul,1,115,115
+NKE-1275,2025-07-20,Nike Dunk Low,Calçado,Este,3,115,345
+NKE-1276,2025-07-21,Nike Air Force 1,Calçado,Este,5,110,550
+NKE-1277,2025-07-22,Nike Air Max,Calçado,Sul,5,150,750
+NKE-1278,2025-07-22,Nike Air Force 1,Calçado,Sul,4,110,440
+NKE-1279,2025-07-23,Nike Pro Training,Vestuário,Sul,1,55,55
+NKE-1280,2025-07-24,Nike Dunk Low,Calçado,Oeste,1,115,115
+NKE-1281,2025-07-24,Nike Tech Fleece,Vestuário,Norte,2,140,280
+NKE-1282,2025-07-25,Nike Tech Fleece,Vestuário,Sul,4,140,560
+NKE-1283,2025-07-26,Nike Pegasus,Calçado,Sul,2,130,260
+NKE-1284,2025-07-27,Nike Air Force 1,Calçado,Sul,2,110,220
+NKE-1285,2025-07-27,Nike Air Force 1,Calçado,Este,2,110,220
+NKE-1286,2025-07-28,Nike Pegasus,Calçado,Este,3,130,390
+NKE-1287,2025-07-29,Nike Pegasus,Calçado,Oeste,3,130,390
+NKE-1288,2025-07-30,Nike Pegasus,Calçado,Norte,2,130,260
+NKE-1289,2025-07-30,Nike Dunk Low,Calçado,Oeste,4,115,460
+NKE-1290,2025-07-31,Nike Pro Training,Vestuário,Norte,1,55,55
+NKE-1291,2025-08-01,Nike Air Force 1,Calçado,Este,4,110,440
+NKE-1292,2025-08-02,Nike Dunk Low,Calçado,Este,5,115,575
+NKE-1293,2025-08-02,Nike Pegasus,Calçado,Este,3,130,390
+NKE-1294,2025-08-03,Nike Air Force 1,Calçado,Oeste,1,110,110
+NKE-1295,2025-08-04,Nike Dunk Low,Calçado,Sul,1,115,115
+NKE-1296,2025-08-04,Nike Pro Training,Vestuário,Sul,5,55,275
+NKE-1297,2025-08-05,Nike Dunk Low,Calçado,Este,5,115,575
+NKE-1298,2025-08-06,Nike Pro Training,Vestuário,Sul,2,55,110
+NKE-1299,2025-08-07,Nike Pegasus,Calçado,Sul,3,130,390
+NKE-1300,2025-08-07,Nike Pro Training,Vestuário,Oeste,3,55,165
+NKE-1301,2025-08-08,Nike Air Force 1,Calçado,Norte,4,110,440
+NKE-1302,2025-08-09,Nike Pegasus,Calçado,Este,2,130,260
+NKE-1303,2025-08-10,Nike Air Force 1,Calçado,Este,2,110,220
+NKE-1304,2025-08-10,Nike Tech Fleece,Vestuário,Oeste,2,140,280
+NKE-1305,2025-08-11,Nike Air Max,Calçado,Oeste,2,150,300
+NKE-1306,2025-08-12,Nike Pro Training,Vestuário,Sul,3,55,165
+NKE-1307,2025-08-12,Nike Air Max,Calçado,Este,3,150,450
+NKE-1308,2025-08-13,Nike Air Max,Calçado,Norte,2,150,300
+NKE-1309,2025-08-14,Nike Pro Training,Vestuário,Oeste,4,55,220
+NKE-1310,2025-08-15,Nike Pegasus,Calçado,Norte,1,130,130
+NKE-1311,2025-08-15,Nike Tech Fleece,Vestuário,Norte,1,140,140
+NKE-1312,2025-08-16,Nike Air Force 1,Calçado,Este,4,110,440
+NKE-1313,2025-08-17,Nike Dunk Low,Calçado,Este,2,115,230
+NKE-1314,2025-08-18,Nike Air Force 1,Calçado,Oeste,3,110,330
+NKE-1315,2025-08-18,Nike Dunk Low,Calçado,Este,1,115,115
+NKE-1316,2025-08-19,Nike Air Force 1,Calçado,Este,5,110,550
+NKE-1317,2025-08-20,Nike Pro Training,Vestuário,Este,5,55,275
+NKE-1318,2025-08-20,Nike Tech Fleece,Vestuário,Norte,4,140,560
+NKE-1319,2025-08-21,Nike Dunk Low,Calçado,Oeste,2,115,230
+NKE-1320,2025-08-22,Nike Pegasus,Calçado,Sul,1,130,130
+NKE-1321,2025-08-23,Nike Air Force 1,Calçado,Norte,2,110,220
+NKE-1322,2025-08-23,Nike Air Force 1,Calçado,Este,1,110,110
+NKE-1323,2025-08-24,Nike Dunk Low,Calçado,Norte,4,115,460
+NKE-1324,2025-08-25,Nike Pegasus,Calçado,Este,4,130,520
+NKE-1325,2025-08-26,Nike Pegasus,Calçado,Este,5,130,650
+NKE-1326,2025-08-26,Nike Pro Training,Vestuário,Norte,2,55,110
+NKE-1327,2025-08-27,Nike Pro Training,Vestuário,Oeste,5,55,275
+NKE-1328,2025-08-28,Nike Pro Training,Vestuário,Este,2,55,110
+NKE-1329,2025-08-28,Nike Pro Training,Vestuário,Oeste,5,55,275
+NKE-1330,2025-08-29,Nike Pro Training,Vestuário,Sul,3,55,165
+NKE-1331,2025-08-30,Nike Pro Training,Vestuário,Este,3,55,165
+NKE-1332,2025-08-31,Nike Tech Fleece,Vestuário,Oeste,3,140,420
+NKE-1333,2025-08-31,Nike Pegasus,Calçado,Oeste,3,130,390
+NKE-1334,2025-09-01,Nike Pro Training,Vestuário,Sul,1,55,55
+NKE-1335,2025-09-02,Nike Pegasus,Calçado,Oeste,3,130,390
+NKE-1336,2025-09-03,Nike Pegasus,Calçado,Oeste,4,130,520
+NKE-1337,2025-09-03,Nike Air Max,Calçado,Sul,4,150,600
+NKE-1338,2025-09-04,Nike Tech Fleece,Vestuário,Este,1,140,140
+NKE-1339,2025-09-05,Nike Pro Training,Vestuário,Oeste,3,55,165
+NKE-1340,2025-09-06,Nike Air Force 1,Calçado,Oeste,3,110,330
+NKE-1341,2025-09-06,Nike Dunk Low,Calçado,Oeste,3,115,345
+NKE-1342,2025-09-07,Nike Air Force 1,Calçado,Norte,5,110,550
+NKE-1343,2025-09-08,Nike Tech Fleece,Vestuário,Sul,2,140,280
+NKE-1344,2025-09-08,Nike Dunk Low,Calçado,Norte,5,115,575
+NKE-1345,2025-09-09,Nike Tech Fleece,Vestuário,Sul,2,140,280
+NKE-1346,2025-09-10,Nike Pegasus,Calçado,Este,3,130,390
+NKE-1347,2025-09-11,Nike Dunk Low,Calçado,Este,3,115,345
+NKE-1348,2025-09-11,Nike Pegasus,Calçado,Oeste,5,130,650
+NKE-1349,2025-09-12,Nike Air Force 1,Calçado,Sul,5,110,550
+NKE-1350,2025-09-13,Nike Air Force 1,Calçado,Este,2,110,220
+NKE-1351,2025-09-14,Nike Dunk Low,Calçado,Sul,4,115,460
+NKE-1352,2025-09-14,Nike Dunk Low,Calçado,Este,2,115,230
+NKE-1353,2025-09-15,Nike Pro Training,Vestuário,Norte,5,55,275
+NKE-1354,2025-09-16,Nike Tech Fleece,Vestuário,Este,5,140,700
+NKE-1355,2025-09-16,Nike Pro Training,Vestuário,Norte,1,55,55
+NKE-1356,2025-09-17,Nike Tech Fleece,Vestuário,Este,5,140,700
+NKE-1357,2025-09-18,Nike Pro Training,Vestuário,Oeste,1,55,55
+NKE-1358,2025-09-19,Nike Pegasus,Calçado,Norte,4,130,520
+NKE-1359,2025-09-19,Nike Dunk Low,Calçado,Este,2,115,230
+NKE-1360,2025-09-20,Nike Air Force 1,Calçado,Oeste,2,110,220
+NKE-1361,2025-09-21,Nike Tech Fleece,Vestuário,Norte,1,140,140
+NKE-1362,2025-09-22,Nike Tech Fleece,Vestuário,Oeste,2,140,280
+NKE-1363,2025-09-22,Nike Air Force 1,Calçado,Sul,5,110,550
+NKE-1364,2025-09-23,Nike Pro Training,Vestuário,Sul,3,55,165
+NKE-1365,2025-09-24,Nike Tech Fleece,Vestuário,Norte,1,140,140
+NKE-1366,2025-09-24,Nike Pegasus,Calçado,Este,2,130,260
+NKE-1367,2025-09-25,Nike Dunk Low,Calçado,Norte,1,115,115
+NKE-1368,2025-09-26,Nike Air Force 1,Calçado,Oeste,1,110,110
+NKE-1369,2025-09-27,Nike Dunk Low,Calçado,Este,3,115,345
+NKE-1370,2025-09-27,Nike Tech Fleece,Vestuário,Sul,5,140,700
+NKE-1371,2025-09-28,Nike Tech Fleece,Vestuário,Este,1,140,140
+NKE-1372,2025-09-29,Nike Air Force 1,Calçado,Sul,2,110,220
+NKE-1373,2025-09-30,Nike Pegasus,Calçado,Este,4,130,520
+NKE-1374,2025-09-30,Nike Air Max,Calçado,Este,1,150,150
+NKE-1375,2025-10-01,Nike Air Force 1,Calçado,Este,1,110,110
+NKE-1376,2025-10-02,Nike Air Max,Calçado,Oeste,3,150,450
+NKE-1377,2025-10-03,Nike Pro Training,Vestuário,Oeste,5,55,275
+NKE-1378,2025-10-03,Nike Air Max,Calçado,Norte,4,150,600
+NKE-1379,2025-10-04,Nike Pegasus,Calçado,Norte,2,130,260
+NKE-1380,2025-10-05,Nike Pro Training,Vestuário,Sul,4,55,220
+NKE-1381,2025-10-05,Nike Air Max,Calçado,Oeste,2,150,300
+NKE-1382,2025-10-06,Nike Pro Training,Vestuário,Sul,5,55,275
+NKE-1383,2025-10-07,Nike Air Max,Calçado,Norte,2,150,300
+NKE-1384,2025-10-08,Nike Pegasus,Calçado,Sul,3,130,390
+NKE-1385,2025-10-08,Nike Air Max,Calçado,Norte,3,150,450
+NKE-1386,2025-10-09,Nike Air Max,Calçado,Oeste,3,150,450
+NKE-1387,2025-10-10,Nike Air Max,Calçado,Este,3,150,450
+NKE-1388,2025-10-11,Nike Air Force 1,Calçado,Oeste,4,110,440
+NKE-1389,2025-10-11,Nike Air Force 1,Calçado,Sul,5,110,550
+NKE-1390,2025-10-12,Nike Air Force 1,Calçado,Sul,2,110,220
+NKE-1391,2025-10-13,Nike Pegasus,Calçado,Oeste,2,130,260
+NKE-1392,2025-10-13,Nike Pro Training,Vestuário,Oeste,3,55,165
+NKE-1393,2025-10-14,Nike Tech Fleece,Vestuário,Norte,3,140,420
+NKE-1394,2025-10-15,Nike Air Max,Calçado,Sul,1,150,150
+NKE-1395,2025-10-16,Nike Air Max,Calçado,Sul,5,150,750
+NKE-1396,2025-10-16,Nike Pegasus,Calçado,Oeste,4,130,520
+NKE-1397,2025-10-17,Nike Air Max,Calçado,Este,2,150,300
+NKE-1398,2025-10-18,Nike Air Force 1,Calçado,Sul,1,110,110
+NKE-1399,2025-10-19,Nike Tech Fleece,Vestuário,Este,1,140,140
+NKE-1400,2025-10-19,Nike Dunk Low,Calçado,Oeste,2,115,230
+NKE-1401,2025-10-20,Nike Air Max,Calçado,Oeste,4,150,600
+NKE-1402,2025-10-21,Nike Air Force 1,Calçado,Norte,1,110,110
+NKE-1403,2025-10-21,Nike Dunk Low,Calçado,Sul,1,115,115
+NKE-1404,2025-10-22,Nike Tech Fleece,Vestuário,Este,5,140,700
+NKE-1405,2025-10-23,Nike Dunk Low,Calçado,Norte,4,115,460
+NKE-1406,2025-10-24,Nike Air Force 1,Calçado,Sul,1,110,110
+NKE-1407,2025-10-24,Nike Pro Training,Vestuário,Norte,4,55,220
+NKE-1408,2025-10-25,Nike Pro Training,Vestuário,Oeste,2,55,110
+NKE-1409,2025-10-26,Nike Dunk Low,Calçado,Sul,3,115,345
+NKE-1410,2025-10-27,Nike Pegasus,Calçado,Norte,1,130,130
+NKE-1411,2025-10-27,Nike Dunk Low,Calçado,Norte,5,115,575
+NKE-1412,2025-10-28,Nike Air Max,Calçado,Este,2,150,300
+NKE-1413,2025-10-29,Nike Air Max,Calçado,Norte,4,150,600
+NKE-1414,2025-10-29,Nike Pro Training,Vestuário,Sul,2,55,110
+NKE-1415,2025-10-30,Nike Pegasus,Calçado,Sul,1,130,130
+NKE-1416,2025-10-31,Nike Air Force 1,Calçado,Este,4,110,440
+NKE-1417,2025-11-01,Nike Air Max,Calçado,Sul,3,150,450
+NKE-1418,2025-11-01,Nike Pro Training,Vestuário,Oeste,2,55,110
+NKE-1419,2025-11-02,Nike Tech Fleece,Vestuário,Sul,1,140,140
+NKE-1420,2025-11-03,Nike Pro Training,Vestuário,Sul,5,55,275
+NKE-1421,2025-11-04,Nike Air Max,Calçado,Norte,4,150,600
+NKE-1422,2025-11-04,Nike Air Max,Calçado,Norte,2,150,300
+NKE-1423,2025-11-05,Nike Pro Training,Vestuário,Sul,2,55,110
+NKE-1424,2025-11-06,Nike Air Force 1,Calçado,Este,3,110,330
+NKE-1425,2025-11-07,Nike Dunk Low,Calçado,Norte,3,115,345
+NKE-1426,2025-11-07,Nike Air Max,Calçado,Este,5,150,750
+NKE-1427,2025-11-08,Nike Pro Training,Vestuário,Sul,5,55,275
+NKE-1428,2025-11-09,Nike Pro Training,Vestuário,Sul,1,55,55
+NKE-1429,2025-11-09,Nike Pegasus,Calçado,Oeste,1,130,130
+NKE-1430,2025-11-10,Nike Dunk Low,Calçado,Norte,5,115,575
+NKE-1431,2025-11-11,Nike Tech Fleece,Vestuário,Sul,5,140,700
+NKE-1432,2025-11-12,Nike Air Force 1,Calçado,Oeste,4,110,440
+NKE-1433,2025-11-12,Nike Tech Fleece,Vestuário,Norte,3,140,420
+NKE-1434,2025-11-13,Nike Dunk Low,Calçado,Sul,1,115,115
+NKE-1435,2025-11-14,Nike Dunk Low,Calçado,Sul,3,115,345
+NKE-1436,2025-11-15,Nike Dunk Low,Calçado,Norte,3,115,345
+NKE-1437,2025-11-15,Nike Tech Fleece,Vestuário,Norte,5,140,700
+NKE-1438,2025-11-16,Nike Dunk Low,Calçado,Norte,4,115,460
+NKE-1439,2025-11-17,Nike Pro Training,Vestuário,Sul,2,55,110
+NKE-1440,2025-11-17,Nike Tech Fleece,Vestuário,Sul,4,140,560
+NKE-1441,2025-11-18,Nike Dunk Low,Calçado,Oeste,4,115,460
+NKE-1442,2025-11-19,Nike Pro Training,Vestuário,Este,3,55,165
+NKE-1443,2025-11-20,Nike Pegasus,Calçado,Norte,4,130,520
+NKE-1444,2025-11-20,Nike Dunk Low,Calçado,Sul,1,115,115
+NKE-1445,2025-11-21,Nike Tech Fleece,Vestuário,Sul,3,140,420
+NKE-1446,2025-11-22,Nike Air Max,Calçado,Norte,1,150,150
+NKE-1447,2025-11-23,Nike Dunk Low,Calçado,Este,2,115,230
+NKE-1448,2025-11-23,Nike Air Max,Calçado,Norte,3,150,450
+NKE-1449,2025-11-24,Nike Pro Training,Vestuário,Este,2,55,110
+NKE-1450,2025-11-25,Nike Pegasus,Calçado,Sul,3,130,390
+NKE-1451,2025-11-25,Nike Air Force 1,Calçado,Este,5,110,550
+NKE-1452,2025-11-26,Nike Pegasus,Calçado,Oeste,4,130,520
+NKE-1453,2025-11-27,Nike Dunk Low,Calçado,Sul,5,115,575
+NKE-1454,2025-11-28,Nike Air Max,Calçado,Oeste,2,150,300
+NKE-1455,2025-11-28,Nike Air Max,Calçado,Norte,4,150,600
+NKE-1456,2025-11-29,Nike Tech Fleece,Vestuário,Norte,3,140,420
+NKE-1457,2025-11-30,Nike Air Max,Calçado,Norte,4,150,600
+NKE-1458,2025-12-01,Nike Tech Fleece,Vestuário,Este,1,140,140
+NKE-1459,2025-12-01,Nike Pro Training,Vestuário,Sul,4,55,220
+NKE-1460,2025-12-02,Nike Air Force 1,Calçado,Norte,1,110,110
+NKE-1461,2025-12-03,Nike Dunk Low,Calçado,Norte,4,115,460
+NKE-1462,2025-12-04,Nike Tech Fleece,Vestuário,Sul,1,140,140
+NKE-1463,2025-12-04,Nike Air Force 1,Calçado,Norte,2,110,220
+NKE-1464,2025-12-05,Nike Air Max,Calçado,Oeste,5,150,750
+NKE-1465,2025-12-06,Nike Air Max,Calçado,Sul,3,150,450
+NKE-1466,2025-12-06,Nike Air Force 1,Calçado,Sul,4,110,440
+NKE-1467,2025-12-07,Nike Air Max,Calçado,Sul,5,150,750
+NKE-1468,2025-12-08,Nike Pro Training,Vestuário,Oeste,3,55,165
+NKE-1469,2025-12-09,Nike Pro Training,Vestuário,Sul,3,55,165
+NKE-1470,2025-12-09,Nike Air Force 1,Calçado,Oeste,1,110,110
+NKE-1471,2025-12-10,Nike Tech Fleece,Vestuário,Sul,2,140,280
+NKE-1472,2025-12-11,Nike Tech Fleece,Vestuário,Este,2,140,280
+NKE-1473,2025-12-12,Nike Air Force 1,Calçado,Norte,5,110,550
+NKE-1474,2025-12-12,Nike Tech Fleece,Vestuário,Este,2,140,280
+NKE-1475,2025-12-13,Nike Tech Fleece,Vestuário,Norte,4,140,560
+NKE-1476,2025-12-14,Nike Pro Training,Vestuário,Oeste,2,55,110
+NKE-1477,2025-12-14,Nike Tech Fleece,Vestuário,Este,5,140,700
+NKE-1478,2025-12-15,Nike Pegasus,Calçado,Sul,2,130,260
+NKE-1479,2025-12-16,Nike Dunk Low,Calçado,Norte,4,115,460
+NKE-1480,2025-12-17,Nike Air Max,Calçado,Norte,1,150,150
+NKE-1481,2025-12-17,Nike Pegasus,Calçado,Este,5,130,650
+NKE-1482,2025-12-18,Nike Tech Fleece,Vestuário,Oeste,1,140,140
+NKE-1483,2025-12-19,Nike Pro Training,Vestuário,Este,1,55,55
+NKE-1484,2025-12-20,Nike Air Force 1,Calçado,Oeste,1,110,110
+NKE-1485,2025-12-20,Nike Tech Fleece,Vestuário,Oeste,3,140,420
+NKE-1486,2025-12-21,Nike Pro Training,Vestuário,Norte,3,55,165
+NKE-1487,2025-12-22,Nike Dunk Low,Calçado,Este,1,115,115
+NKE-1488,2025-12-22,Nike Tech Fleece,Vestuário,Este,5,140,700
+NKE-1489,2025-12-23,Nike Air Force 1,Calçado,Oeste,4,110,440
+NKE-1490,2025-12-24,Nike Pro Training,Vestuário,Este,4,55,220
+NKE-1491,2025-12-25,Nike Pro Training,Vestuário,Sul,2,55,110
+NKE-1492,2025-12-25,Nike Pro Training,Vestuário,Sul,5,55,275
+NKE-1493,2025-12-26,Nike Dunk Low,Calçado,Este,3,115,345
+NKE-1494,2025-12-27,Nike Tech Fleece,Vestuário,Este,1,140,140
+NKE-1495,2025-12-28,Nike Dunk Low,Calçado,Oeste,2,115,230
+NKE-1496,2025-12-28,Nike Air Max,Calçado,Sul,4,150,600
+NKE-1497,2025-12-29,Nike Air Max,Calçado,Sul,3,150,450
+NKE-1498,2025-12-30,Nike Tech Fleece,Vestuário,Norte,3,140,420
+NKE-1499,2025-12-31,Nike Dunk Low,Calçado,Oeste,1,115,115
